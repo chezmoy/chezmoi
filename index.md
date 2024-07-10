@@ -22,3 +22,5 @@ Prise des commandes, facturation et contrôle des délais.
 2011-2013
 bac pro logistique et transport
 apprentissage des métiers de la logistique et du transports 
+
+![Texte décrivant l'image]({% link images/OIP.jpg %}) 
