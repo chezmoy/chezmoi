@@ -13,4 +13,13 @@ padding : 10px;
 color : red;
 }
 
+.grave {
+text-align : center;
+color : yellow;
+font-style : italic;
+}
+.style {
+text-decoration : undeline-dotted;
+}
+
 
