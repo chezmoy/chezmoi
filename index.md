@@ -1,23 +1,24 @@
 ---
-title: "Futur responsable logistique"
+title: "Futur développeuse web"
 order: 0
 in_menu: true
 ---
-Qui suis je ?
+# Qui suis je ?
 
-Experiences professionnelles
+**_Experiences professionnelles_**
+
 2019-2023
-Responsable logistique
+**Responsable logistique**
 Organisation et gestion de l'équipe logistique
 
 2018-2019
-Assistante adv/logistique
+**Assistante adv/logistique**
 Prise des commandes, facturation et contrôle des délais.
 
 2008-2013
-Magasinier cariste
+**Magasinier cariste**
 
-Parcours scolaire
+### Parcours scolaire
 2011-2013
 bac pro logistique et transport
 apprentissage des métiers de la logistique et du transports 
