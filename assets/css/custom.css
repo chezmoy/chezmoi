@@ -2,6 +2,12 @@
     --couleur-primaire : #07357d;
 }
 
+h1 {
+text-align : right;
+color : pink;
+font-weight : bold;
+}
+
 body {
 background : tan;
 margin : 10px;
