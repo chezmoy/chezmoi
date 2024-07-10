@@ -2,13 +2,13 @@
     --couleur-primaire : #07357d;
 }
 
-h1 {
+:h1 {
 
 text-decoration : underline;
 
 }
 
-background-image {
+:background-image {
 
 background-position: left center;
 }
