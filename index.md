@@ -1,6 +1,6 @@
 ---
 title: "Biographie d'un homme politique corrompu"
-order: 0
+order: 1
 in_menu: true
 ---
 **_Biographie_** :
